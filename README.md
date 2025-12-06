@@ -27,8 +27,13 @@ The next flip-flop need only “recognize” that the first flip-flop’s Q outp
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
 **Procedure**
+Open Quartus software and create a new Verilog file. Paste the code and save it.
+Compile the program to check for errors.
+Generate the RTL schematic via the RTL Viewer and save the logic diagram.
+Use the Waveform Editor to assign nodes for clk, rstn, and out.
+Simulate the design with different clk and rstn combinations to generate the timing diagram, and save the results.
 
-/* write all the steps invloved */
+
 
 **PROGRAM**
 ![WhatsApp Image 2025-12-06 at 6 19 08 PM](https://github.com/user-attachments/assets/e1f544cd-be96-4720-8a7c-e7d041dc3066)
