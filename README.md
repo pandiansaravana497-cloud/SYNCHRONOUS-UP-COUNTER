@@ -31,16 +31,22 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 /* write all the steps invloved */
 
 **PROGRAM**
+![WhatsApp Image 2025-12-06 at 6 19 08 PM](https://github.com/user-attachments/assets/e1f544cd-be96-4720-8a7c-e7d041dc3066)
+ 
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
-Developed by: RegisterNumber:
+Developed by:PON SARAVANA PANDIAN B
+RegisterNumber:25005762
 */
 
 **RTL LOGIC UP COUNTER**
+![WhatsApp Image 2025-12-06 at 6 18 15 PM](https://github.com/user-attachments/assets/5bfea777-5f78-4d82-84f9-c84ea3614552)
+
 
 **TIMING DIAGRAM FOR IP COUNTER**
+![WhatsApp Image 2025-12-06 at 6 18 15 PM (1)](https://github.com/user-attachments/assets/17f69c80-8a6a-4236-9e08-cacef963811e)
+
 
 **TRUTH TABLE**
 
 **RESULTS**
+Thus the Synchronous 3 bit Up counter is implemeted and verified.
