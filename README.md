@@ -49,4 +49,5 @@ RegisterNumber:25005762
 **TRUTH TABLE**
 
 **RESULTS**
-Thus the Synchronous 3 bit Up counter is implemeted and verified.
+
+  Thus the Synchronous 3 bit Up counter is implemeted and verified.
